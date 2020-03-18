@@ -1,1 +1,1 @@
-# testg
+[My Awesome Wiki](../../wiki)
